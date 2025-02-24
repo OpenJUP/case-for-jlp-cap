@@ -1,4 +1,4 @@
-Ethena's Capped Yield Model: A Winning Strategy
+# Ethena's Capped Yield Model: A Winning Strategy
 
 Ethena employs a capped yield model that limits the number of users who can participate in earning yields. This mechanism has been extremely successful for several key reasons:
 
@@ -12,7 +12,7 @@ This capped approach has proven effective because it balances supply and demand 
 
 * * * * *
 
-JLP's Uncapped Yield Structure: A Risk to Existing Holders
+# JLP's Uncapped Yield Structure: A Risk to Existing Holders
 
 In contrast, JLP (Jupiter Perps' liquidity provider token) operates with an uncapped yield structure, allowing anyone to mint JLP and earn yields without limits. While this openness might appear inclusive, it poses significant challenges for existing holders:
 
@@ -24,7 +24,7 @@ Unlike Ethena's capped model, which preserves yield rates by limiting access, JL
 
 * * * * *
 
-Hedging Vaults: Cannibalizing Yield to Non-Jupiter Users
+# Hedging Vaults: Cannibalizing Yield to Non-Jupiter Users
 
 The situation worsens when strategies like delta neutral hedging vaults (e.g., hJLP on Drift) are introduced. These vaults, designed to offer low-risk yields, inadvertently hurt existing JLP holders by diverting benefits outside Jupiter's ecosystem:
 
@@ -42,7 +42,7 @@ When JLP APY is low, this diversion becomes even more detrimental. Existing hold
 
 * * * * *
 
-Why Keeping JLP Uncapped Hurts
+# Why Keeping JLP Uncapped Hurts
 
 Keeping JLP uncapped undermines existing holders in two major ways:
 
@@ -54,7 +54,7 @@ In essence, JLP's uncapped model fails to protect existing holders from dilution
 
 * * * * *
 
-A Potential Solution: Learning from Ethena
+# A Potential Solution: Learning from Ethena
 
 Jupiter could mitigate these issues by adopting a capped yield model inspired by Ethena:
 
@@ -68,6 +68,6 @@ Such a shift could mirror Ethena's success, ensuring that JLP holders are reward
 
 * * * * *
 
-Conclusion
+# Conclusion
 
 Ethena's capped yield model has proven extremely successful by restricting access to yields, creating scarcity, aligning incentives, and maintaining higher returns for participants. Conversely, JLP's uncapped structure hurts existing holders by diluting yields---especially when APY is low---and allowing strategies like hedging vaults to cannibalize benefits for non-Jupiter aligned users and competing platforms. By keeping yields uncapped, Jupiter risks undermining its loyal supporters and losing economic value to competitors, a problem Ethena avoids through its disciplined, capped approach.
