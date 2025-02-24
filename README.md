@@ -2,11 +2,11 @@
 
 Ethena employs a capped yield model that limits the number of users who can participate in earning yields. This mechanism has been extremely successful for several key reasons:
 
--   Controlled Yield Distribution: By capping access, Ethena ensures that yields are shared among a select group of participants rather than diluted across a large, unrestricted pool. This keeps yield rates higher for those who gain entry, as the rewards aren't spread thin by an influx of new users.
+-   **Controlled Yield Distribution**: By capping access, Ethena ensures that yields are shared among a select group of participants rather than diluted across a large, unrestricted pool. This keeps yield rates higher for those who gain entry, as the rewards aren't spread thin by an influx of new users.
 
--   Exclusivity Breeds Demand: The restriction creates a sense of scarcity, making the opportunity to earn yields more attractive. This exclusivity drives demand, drawing in committed users who value the privilege and are motivated to engage deeply with the platform.
+-   **Exclusivity Breeds Demand**: The restriction creates a sense of scarcity, making the opportunity to earn yields more attractive. This exclusivity drives demand, drawing in committed users who value the privilege and are motivated to engage deeply with the platform.
 
--   Aligned Incentives: Limiting participation fosters a community of dedicated users whose interests align with Ethena's growth. These participants are more likely to contribute to the ecosystem---whether through liquidity provision or other activities---because they directly benefit from the platform's success.
+-   **Aligned Incentives**: Limiting participation fosters a community of dedicated users whose interests align with Ethena's growth. These participants are more likely to contribute to the ecosystem---whether through liquidity provision or other activities---because they directly benefit from the platform's success.
 
 This capped approach has proven effective because it balances supply and demand for yields, maintaining attractive returns while building a loyal user base. Ethena's success demonstrates that restricting access can be a powerful tool for incentivizing engagement and ensuring sustainable rewards.
 
@@ -16,9 +16,9 @@ This capped approach has proven effective because it balances supply and demand 
 
 In contrast, JLP (Jupiter Perps' liquidity provider token) operates with an uncapped yield structure, allowing anyone to mint JLP and earn yields without limits. While this openness might appear inclusive, it poses significant challenges for existing holders:
 
--   Yield Dilution: As more participants join and mint JLP, the yields---derived from Jupiter's trading fees---are distributed across a larger pool. If the total value locked (TVL) grows without a corresponding increase in trading activity, each holder's share of the yield shrinks. This dilution directly reduces returns for existing holders.
+-   **Yield Dilution**: As more participants join and mint JLP, the yields---derived from Jupiter's trading fees---are distributed across a larger pool. If the total value locked (TVL) grows without a corresponding increase in trading activity, each holder's share of the yield shrinks. This dilution directly reduces returns for existing holders.
 
--   Worse When APY is Low: When JLP APY is already low---due to factors like reduced trading volume or market conditions---the uncapped structure magnifies the problem. New participants further erode the already slim yields, leaving existing holders with diminishing returns. This can frustrate long-term supporters who see their earnings steadily decline.
+-   **Worse When APY is Low**: When JLP APY is already low---due to factors like reduced trading volume or market conditions---the uncapped structure magnifies the problem. New participants further erode the already slim yields, leaving existing holders with diminishing returns. This can frustrate long-term supporters who see their earnings steadily decline.
 
 Unlike Ethena's capped model, which preserves yield rates by limiting access, JLP's uncapped approach risks alienating existing holders by failing to protect their share of the reward pool.
 
@@ -28,15 +28,15 @@ Unlike Ethena's capped model, which preserves yield rates by limiting access, JL
 
 The situation worsens when strategies like delta neutral hedging vaults (e.g., hJLP on Drift) are introduced. These vaults, designed to offer low-risk yields, inadvertently hurt existing JLP holders by diverting benefits outside Jupiter's ecosystem:
 
--   Yield Diversion: Hedging vaults attract JLP holders by providing a hedged, low-risk way to earn fees. However, the hedging trades occur on platforms like Drift, not Jupiter. As a result:
+-   **Yield Diversion**: Hedging vaults attract JLP holders by providing a hedged, low-risk way to earn fees. However, the hedging trades occur on platforms like Drift, not Jupiter. As a result:
 
     -   Trading fees from hedging flow to Drift instead of staying within Jupiter.
 
     -   The economic activity generated by these strategies enriches a competing platform rather than bolstering Jupiter's ecosystem.
 
--   Cannibalization Effect: While vaults mitigate risk for JLP holders, they effectively "cannibalize" yield by channeling trading volume and fees away from Jupiter. This reduces the overall revenue available to JLP holders, who rely on Jupiter's trading fees for their yields.
+-   **Cannibalization Effect**: While vaults mitigate risk for JLP holders, they effectively "cannibalize" yield by channeling trading volume and fees away from Jupiter. This reduces the overall revenue available to JLP holders, who rely on Jupiter's trading fees for their yields.
 
--   Non-Aligned Beneficiaries: Many vault users may not be committed to Jupiter's long-term success. They're often risk-averse investors chasing stable returns, and their hedging activity benefits Drift without contributing to Jupiter's growth. This misaligns incentives, as Jupiter powers JLP's value, yet the profits from related activities leak elsewhere.
+-   **Non-Aligned Beneficiaries**: Many vault users may not be committed to Jupiter's long-term success. They're often risk-averse investors chasing stable returns, and their hedging activity benefits Drift without contributing to Jupiter's growth. This misaligns incentives, as Jupiter powers JLP's value, yet the profits from related activities leak elsewhere.
 
 When JLP APY is low, this diversion becomes even more detrimental. Existing holders, already grappling with reduced yields, lose out further as hedging strategies siphon economic activity to non-Jupiter aligned users and platforms.
 
@@ -46,9 +46,9 @@ When JLP APY is low, this diversion becomes even more detrimental. Existing hold
 
 Keeping JLP uncapped undermines existing holders in two major ways:
 
-1.  Dilution of Rewards: Without a cap, yields are spread thin as participation grows, especially during periods of low APY. This contrasts sharply with Ethena's model, where a cap ensures higher, more stable returns for participants.
+1.  **Dilution of Rewards**: Without a cap, yields are spread thin as participation grows, especially during periods of low APY. This contrasts sharply with Ethena's model, where a cap ensures higher, more stable returns for participants.
 
-2.  Vulnerability to External Strategies: The uncapped structure leaves JLP exposed to strategies like hedging vaults, which exploit Jupiter's liquidity while funneling benefits to competitors. Ethena's restricted access prevents such leakage by concentrating rewards within its ecosystem.
+2.  **Vulnerability to External Strategies**: The uncapped structure leaves JLP exposed to strategies like hedging vaults, which exploit Jupiter's liquidity while funneling benefits to competitors. Ethena's restricted access prevents such leakage by concentrating rewards within its ecosystem.
 
 In essence, JLP's uncapped model fails to protect existing holders from dilution and external cannibalization, particularly when yields are already strained.
 
